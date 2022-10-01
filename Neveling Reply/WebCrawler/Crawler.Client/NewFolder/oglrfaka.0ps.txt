@@ -1,0 +1,353 @@
+
+
+<!DOCTYPE html>
+<html lang="en" title="BBC Studios - Executive Committee">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <meta name="description" content="Executive Committee">
+    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="d9da3cf2-9cc6-4137-93c0-2a9ecc0a8835" data-blockingmode="auto" type="text/javascript"></script>
+    <title>BBC Studios - Executive Committee</title>
+
+    
+
+    <link href="/dist/bundleCssNewStudioV1.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the paage via file:// -->
+    <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script src="/js/newstudiov1/ga.js"></script>
+
+</head>
+<body class="ourProgrammes">
+
+    
+<nav class="navbar navbar-default headerBg" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button id="ChangeToggle" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <div id="navbar-hamburger"> <span class="sr-only">Toggle navigation</span> <span class="">Menu</span> </div>
+                <div id="navbar-close" class="hidden"> <span>Close</span> </div>
+            </button>            
+            <a class="navbar-brand logo-padding" href="/"><img src="/Resources/NewBBCSHeaderlogo.svg"></a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <div class="col-xs-12 col-sm-3 pd0 mT14">
+<form action="/about/executive-committee/" class="navbar-form" enctype="multipart/form-data" method="post" role="search">            <div class="form-group">
+                <div class="input-group">
+                    <input name="__RequestVerificationToken" type="hidden" value="uAK5DiEMhGgnTyf9By4hjcdC2LopxDzIq2lfiIyQuKAFJ_UobHrEauHLuFF7DSpN3f1QOXZjUSRadvw-pQk2cd7e2NY1">
+<div ng-non-bindable="">
+    <input class="form-control&#32;input-lg" id="searchTerm" name="searchTerm" placeholder="Search" type="text" value="">
+</div>
+                    <span class="input-group-btn">
+                        <button type="submit" id="SearchBtn" class="btn btn-default btn-lg searchbtnheight"><span class="glyphicon glyphicon-search font18"></span></button>
+                    </span>
+                </div>
+            </div>
+<input name='ufprt' type='hidden' value='1CA07A94D4C209D5E3606FECB8D8413E1A4BDCCEFDBE75E9AE4C0324049A9C5C9C47E6C61D1955BCF0F48A124DCBD50CE3532B2D82082141438A7759FF370FA25DF6F141E3A5F6EDBF7820113F40F0574AAED4B752C9CA158BBFE31FDBADE662C0E2E37A6980EAABD9916D1C96A706CDE520EBD1'></form></div>
+            <ul class="nav navbar-nav navbar-right mT18 greyBg">
+
+
+
+    <li class="dropdown">
+        <a href="http://www.bbcstudios.com/about/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+            About<span class="glyphicon glyphicon-chevron-down pull-right downArrow"></span>
+        </a>
+                <ul class="dropdown-menu dropdownhover-bottom width207" role="menu">
+        <li>
+            <a href="http://www.bbcstudios.com/about/about-us/">
+                About Us
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/about/our-channels-and-brands/">
+                Our Channels and Brands
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/about/executive-committee/">
+                Executive Committee
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/about/environment/">
+                Environment
+            </a>
+        </li>
+        </ul>
+
+    </li>
+
+
+
+    <li class="dropdown">
+        <a href="http://www.bbcstudios.com/our-work/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+            Our Work<span class="glyphicon glyphicon-chevron-down pull-right downArrow"></span>
+        </a>
+                <ul class="dropdown-menu dropdownhover-bottom width207" role="menu">
+        <li>
+            <a href="http://www.bbcstudios.com/our-work/commercial-activity/">
+                Commercial Activity
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/our-work/awards/">
+                Awards
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/our-work/content-partnerships/">
+                Content Partnerships
+            </a>
+        </li>
+        <li>
+            <a href="https://productions.bbcstudios.com/">
+                Productions
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://sales.bbcstudios.com/">
+                International Content Platform
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.bbcstudios.com/ScriptWorks">
+                ScriptWorks
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+                    <ul class="dropdown-menu dropdownhover-bottom width207" role="menu">
+        <li>
+            <a href="https://www.bbcstudios.com/writersacademy">
+                Writers&#39; Academy
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+        </li>
+        </ul>
+
+        </li>
+        <li>
+            <a href="https://www.bbcstudios.com/talentworks/">
+                TalentWorks
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://bbcnews.bbcstudios.com/">
+                BBC News Commercial
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+        </li>
+        </ul>
+
+    </li>
+
+
+
+    <li class="dropdown">
+        <a href="http://www.bbcstudios.com/news/">
+            News
+        </a>
+    </li>
+
+
+
+    <li class="dropdown">
+        <a href="http://www.bbcstudios.com/contact/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+            Contact<span class="glyphicon glyphicon-chevron-down pull-right downArrow"></span>
+        </a>
+                <ul class="dropdown-menu dropdownhover-bottom width207" role="menu">
+        <li>
+            <a href="http://www.bbcstudios.com/contact/contact-us/">
+                Contact Us
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/contact/our-locations/">
+                Our Locations
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/contact/faqs/">
+                FAQs
+            </a>
+        </li>
+        <li>
+            <a href="https://careers.bbcstudios.com/">
+                Careers
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+        </li>
+        </ul>
+
+    </li>
+
+
+
+
+            </ul>
+        </div>
+    </div>
+</nav>
+
+    <section id="main-content-container" data-gap="sqhefdnlslvnpoacdtsq">
+        
+
+
+    <div class="umb-grid">
+                <div class="grid-section">
+    <div>
+        <div class='container'>
+        <div class="row clearfix">
+            <div class="col-md-12 column">
+                <div>
+                            
+    
+<section class="bgWhite">
+<h1><strong>Board and senior leadership</strong></h1>
+<hr class="contact"></section>
+
+
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+    <div data-background-color="studiosDeepPurple" data-sidebar-background-color="white">
+        <div class='container'>
+        <div class="row clearfix">
+            <div class="col-md-12 column">
+                <div data-background-color="studiosDeepPurple">
+                            
+    
+<section>
+<div class=" pd_TB30">
+<div class="row">
+<div class="col-sm-12 col-md-8 col-lg-8">
+<h3 class="bodyText1">Oversight of commercial activity<o:p></o:p></h3>
+<p class="bodyText1"><o:p>BBC Studios is the principal commercial arm of the BBC Group. </o:p></p>
+<p class="bodyText1"><o:p>Alongside sister commercial business Studioworks, it reports into the BBC Commercial Board, which oversees the delivery of the Corporation’s commercial ambitions. </o:p></p>
+<p class="bodyText1"><o:p>You can find more information on the BBC Commercial Board <a href="https://www.bbc.com/aboutthebbc/whoweare/commercial"><span class="bg-studios-light-purple">here.</span></a></o:p></p>
+</div>
+</div>
+</div>
+</section>
+
+
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+    <div data-background-color="studiosDeepPurple">
+        <div class='container'>
+        <div class="row clearfix">
+            <div class="col-md-12 column">
+                <div data-background-color="studiosDeepPurple">
+                            
+    
+<section>
+<div class=" pd_TB30">
+<div class="row">
+<div class="col-sm-12 col-md-8 col-lg-8">
+<h3 class="bodyText1">Executive leadership<o:p></o:p></h3>
+<p>At an executive level, BBC Studios' senior leadership consists of 14 experienced media professionals, led by Tom Fussell as Chief Executive Officer and Lorraine Burgess as Chief Finance Officer.</p>
+</div>
+</div>
+</div>
+</section>
+
+
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+    <div data-background-color="white">
+        <div class='container'>
+        <div class="row clearfix">
+            <div class="col-md-12 column">
+                <div>
+                            
+    
+
+    
+        <section class="infoBg">
+            <div class="row" id="brandtitleContainer" data-ng-controller="BrandTileController as vm" ng-init="vm.init(false, [{&quot;name&quot;:null,&quot;description&quot;:&quot;&lt;p&gt;&lt;a data-id=\&quot;7213\&quot; href=\&quot;/about/executive-committee/marcus-arthur/\&quot; title=\&quot;Marcus Arthur\&quot;&gt;&lt;img class=\&quot;img-responsive\&quot; src=\&quot;/media/3867/marcus-arthur.jpg\&quot; alt=\&quot;Marcus Arthur\&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&quot;,&quot;category&quot;:&quot;&quot;,&quot;hoverDescription&quot;:&quot;&lt;h4&gt;Marcus Arthur&lt;/h4&gt;\r\n&lt;p&gt;President, UK Distribution and CEO, UKTV&lt;/p&gt;&quot;},{&quot;name&quot;:null,&quot;description&quot;:&quot;&lt;p&gt;&lt;a data-id=\&quot;9673\&quot; href=\&quot;/about/executive-committee/martha-brass/\&quot; title=\&quot;Martha Brass\&quot;&gt;&lt;img class=\&quot;img-responsive\&quot; src=\&quot;/media/4786/martha-brass.jpg\&quot; alt=\&quot;Martha Brass\&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&quot;,&quot;category&quot;:&quot;&quot;,&quot;hoverDescription&quot;:&quot;&lt;h4&gt;Martha Brass&lt;/h4&gt;\r\n&lt;p&gt;COO, Studios Productions&lt;/p&gt;&quot;},{&quot;name&quot;:null,&quot;description&quot;:&quot;&lt;p&gt;&lt;a data-id=\&quot;9479\&quot; href=\&quot;/about/executive-committee/lorraine-burgess/\&quot; title=\&quot;Lorraine Burgess\&quot;&gt;&lt;img class=\&quot;img-responsive\&quot; src=\&quot;/media/5147/lorraine-burgess-2022.jpg\&quot; alt=\&quot;Lorraine Burgess\&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&quot;,&quot;category&quot;:&quot;&quot;,&quot;hoverDescription&quot;:&quot;&lt;h4&gt;Lorraine Burgess&lt;/h4&gt;\r\n&lt;p&gt;Chief Financial Officer&lt;/p&gt;&quot;},{&quot;name&quot;:null,&quot;description&quot;:&quot;&lt;p&gt;&lt;a data-id=\&quot;4231\&quot; href=\&quot;/about/executive-committee/maggy-chan/\&quot; title=\&quot;Maggy Chan\&quot;&gt;&lt;img class=\&quot;img-responsive\&quot; src=\&quot;/media/4231/maggy-chan.jpg\&quot; alt=\&quot;Maggy Chan\&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&quot;,&quot;category&quot;:&quot;&quot;,&quot;hoverDescription&quot;:&quot;&lt;h4&gt;Maggy Chan&lt;/h4&gt;\r\n&lt;p&gt;Chief Operating Officer, Global Distribution.&lt;/p&gt;&quot;},{&quot;name&quot;:null,&quot;description&quot;:&quot;&lt;p&gt;&lt;a href=\&quot;/about/executive-committee/charlotte-elston/\&quot; title=\&quot;Charlotte Elston\&quot;&gt;&lt;img class=\&quot;img-responsive\&quot; src=\&quot;/media/3861/charlotte-elston.jpg\&quot; alt=\&quot;Charlotte Elston\&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&quot;,&quot;category&quot;:&quot;&quot;,&quot;hoverDescription&quot;:&quot;&lt;h4&gt;Charlotte Elston&lt;/h4&gt;\r\n&lt;p&gt;Director of Communications&lt;/p&gt;&quot;},{&quot;name&quot;:null,&quot;description&quot;:&quot;&lt;p&gt;&lt;a data-id=\&quot;7218\&quot; href=\&quot;/about/executive-committee/martyn-freeman/\&quot; title=\&quot;Martyn Freeman\&quot;&gt;&lt;img class=\&quot;img-responsive\&quot; src=\&quot;/media/3869/martyn-freeman.jpg\&quot; alt=\&quot;Martyn Freeman\&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&quot;,&quot;category&quot;:&quot;&quot;,&quot;hoverDescription&quot;:&quot;&lt;h4&gt;Martyn Freeman&lt;/h4&gt;\r\n&lt;p&gt;Chief Operating Officer&lt;/p&gt;&quot;},{&quot;name&quot;:null,&quot;description&quot;:&quot;&lt;p&gt;&lt;a data-id=\&quot;7211\&quot; href=\&quot;/about/executive-committee/tom-fussell/\&quot; title=\&quot;Tom Fussell\&quot;&gt;&lt;img class=\&quot;img-responsive\&quot; src=\&quot;/media/3875/tom-fussell.jpg\&quot; alt=\&quot;Tom Fussell\&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&quot;,&quot;category&quot;:&quot;&quot;,&quot;hoverDescription&quot;:&quot;&lt;h4&gt;Tom Fussell&lt;/h4&gt;\r\n&lt;p&gt;CEO&lt;/p&gt;&quot;},{&quot;name&quot;:null,&quot;description&quot;:&quot;&lt;p&gt;&lt;a data-id=\&quot;10249\&quot; href=\&quot;/about/executive-committee/rebecca-glashow/\&quot; title=\&quot;Rebecca Glashow\&quot;&gt;&lt;img class=\&quot;img-responsive\&quot; src=\&quot;/media/5106/rebecca-glashow.jpg\&quot; alt=\&quot;Rebecca Glashow\&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&quot;,&quot;category&quot;:&quot;&quot;,&quot;hoverDescription&quot;:&quot;&lt;h4&gt;Rebecca Glashow&lt;/h4&gt;\r\n&lt;p&gt;Chief Executive Officer, Global Distribution&lt;/p&gt;&quot;},{&quot;name&quot;:null,&quot;description&quot;:&quot;&lt;p&gt;&lt;a data-id=\&quot;7223\&quot; href=\&quot;/about/executive-committee/david-moody/\&quot; title=\&quot;David Moody\&quot;&gt;&lt;img class=\&quot;img-responsive\&quot; src=\&quot;/media/3862/david-moody.jpg\&quot; alt=\&quot;David Moody\&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&quot;,&quot;category&quot;:&quot;&quot;,&quot;hoverDescription&quot;:&quot;&lt;h4&gt;David Moody&lt;/h4&gt;\r\n&lt;p&gt;Director of Strategy &amp;amp; Business Development&lt;/p&gt;&quot;},{&quot;name&quot;:null,&quot;description&quot;:&quot;&lt;p&gt;&lt;a data-id=\&quot;7024\&quot; href=\&quot;/about/executive-committee/ralph-lee/\&quot; title=\&quot;Ralph Lee\&quot;&gt;&lt;img class=\&quot;img-responsive\&quot; src=\&quot;/media/3872/ralph-lee.jpg\&quot; alt=\&quot;Ralph Lee\&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&quot;,&quot;category&quot;:&quot;&quot;,&quot;hoverDescription&quot;:&quot;&lt;h4&gt;Ralph Lee&lt;/h4&gt;\r\n&lt;p&gt;CEO, Studios Productions&lt;/p&gt;&quot;},{&quot;name&quot;:null,&quot;description&quot;:&quot;&lt;p&gt;&lt;a data-id=\&quot;7225\&quot; href=\&quot;/about/executive-committee/jabbar-sardar/\&quot; title=\&quot;Jabbar Sardar\&quot;&gt;&lt;img class=\&quot;img-responsive\&quot; src=\&quot;/media/3865/jabbar-sadar.jpg\&quot; alt=\&quot;Jabbar Sardar\&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&quot;,&quot;category&quot;:&quot;&quot;,&quot;hoverDescription&quot;:&quot;&lt;h4&gt;Jabbar Sardar&lt;/h4&gt;\r\n&lt;p&gt;HR Director&lt;/p&gt;&quot;},{&quot;name&quot;:null,&quot;description&quot;:&quot;&lt;p&gt;&lt;a data-id=\&quot;8568\&quot; href=\&quot;/about/executive-committee/nicki-sheard/\&quot; title=\&quot;Nicki Sheard\&quot;&gt;&lt;img class=\&quot;img-responsive\&quot; src=\&quot;/media/5163/update-nicki-sheard-580x581.jpg\&quot; alt=\&quot;Nicki Sheard\&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&quot;,&quot;category&quot;:&quot;&quot;,&quot;hoverDescription&quot;:&quot;&lt;h4&gt;Nicki Sheard&lt;/h4&gt;\r\n&lt;p&gt;Chief Marketing Officer&lt;/p&gt;&quot;},{&quot;name&quot;:null,&quot;description&quot;:&quot;&lt;p&gt;&lt;a data-id=\&quot;7216\&quot; href=\&quot;/about/executive-committee/paul-dempsey/\&quot; title=\&quot;Paul Dempsey\&quot;&gt;&lt;img class=\&quot;img-responsive\&quot; src=\&quot;/media/3871/paul-dempsey.jpg\&quot; alt=\&quot;Paul Dempsey\&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&quot;,&quot;category&quot;:&quot;&quot;,&quot;hoverDescription&quot;:&quot;&lt;h4&gt;Paul Dempsey -&#160;Senior Adviser&lt;/h4&gt;\r\n&lt;p&gt;Director of Performance&lt;/p&gt;&quot;},{&quot;name&quot;:null,&quot;description&quot;:&quot;&lt;p&gt;&lt;a data-id=\&quot;7221\&quot; href=\&quot;/about/executive-committee/mark-linsey/\&quot; title=\&quot;Mark Linsey\&quot;&gt;&lt;img class=\&quot;img-responsive\&quot; src=\&quot;/media/3868/mark-linsey.jpg\&quot; alt=\&quot;Mark Linsey\&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&quot;,&quot;category&quot;:&quot;&quot;,&quot;hoverDescription&quot;:&quot;&lt;h4&gt;Mark Linsey - Senior Adviser&#160;&lt;/h4&gt;\r\n&lt;p&gt;Managing Director, Scripted&lt;/p&gt;&quot;}])">
+                <div class="col-sm-4 pd_T20" ng-repeat="tile in vm.tiles|filter: {category: vm.selectedCategory}">
+                    <div class="member profileCol">
+                        <div ng-bind-html="tile.description| sanitize" class="pic"></div>
+                        <div class="brand-title" ng-bind-html="tile.hoverDescription| sanitize"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+
+
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+                </div>
+    </div>
+
+
+
+    </section>
+
+    
+
+<footer class="container-fluid footer">
+    <div class="container pd_TB40 mob_PL0">
+        <div class="row footer-links">
+            <div class="col-xs-12 col-sm-5 col-md-2 footerLink pd_RL0">
+                <a class="navbar-brand " href="/"><img src="/Resources/NewBBCSFooterlogo.svg" alt="BBC Studios" class="img-responsive"> </a>
+            </div>
+            <div class="col-xs-12 col-md-10">
+                <ul class="nav navbar-nav navbar-right w100">
+                    <li><a href="/privacy">Privacy </a></li>
+                    <li><a href="/community-rules/">Community Rules</a></li>
+                    <li><a href="/cookies">Cookies</a></li>
+                    <li><a href="/copyright">Copyright</a></li>
+                    <li><a href="/manage-cookies">Manage Cookies</a></li>
+                    <li><a href="/terms-conditions">Terms &amp; Conditions</a></li>
+                    <li><a href="/annual-review">Annual Review</a></li>
+                    <li><a href="/reports">Reports</a></li>
+                    <li><a href="/modern-slavery-statement">Modern Slavery Statement</a></li>
+                    <li><a href="/working-with-us">Working With Us</a></li>
+                    <li><a href="http://www.bbc.co.uk/accessibility/">Accessibility Help <i class="fa fa-external-link fa-md"></i> </a></li>
+
+                </ul>
+            </div>
+        </div>
+
+        <hr>
+        <div class="row">
+            <div class="col-sm-12 copyright-link">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-7">
+                    <p class="font12 serif-regular">BBC Studios Distribution Limited, company number 01420028, 1 Television Centre, 101 Wood Lane, London, United Kingdom, W12 7FA.</p>
+                    <p class="font12 serif-regular">BBC Studios Productions Limited, company number 09463829, 1 Television Centre, 101 Wood Lane, London, W12 7FA. </p>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5 text-right pd_R0 sans-bold">
+                    <div class="col-sm-12 pdL0_mob tab_align"><a href="https://sales.bbcstudios.com/">BBC Studios International Content Platform <i class="fa fa-external-link fa-md"></i></a></div>
+                    <div class="col-sm-12 text-right pdL0_mob pd_T10 tab_align"><a href="https://careers.bbcstudios.com/">BBC Studios Careers <i class="fa fa-external-link fa-md"></i></a> </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    
+
+
+    
+
+    <script src="/dist/bundleJsNewStudioV1.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDbfhEHIEhj7bIJ_WAqQF1V-t7Q8Gjmewo"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+
+</body>
+</html>

@@ -1,0 +1,335 @@
+
+
+<!DOCTYPE html>
+<html lang="en" title="BBC Studios News">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <meta name="description" content="News">
+    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="d9da3cf2-9cc6-4137-93c0-2a9ecc0a8835" data-blockingmode="auto" type="text/javascript"></script>
+    <title>BBC Studios News</title>
+
+    
+
+    <link href="/dist/bundleCssNewStudioV1.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the paage via file:// -->
+    <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script src="/js/newstudiov1/ga.js"></script>
+
+</head>
+<body class="ourProgrammes">
+
+    
+<nav class="navbar navbar-default headerBg" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button id="ChangeToggle" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <div id="navbar-hamburger"> <span class="sr-only">Toggle navigation</span> <span class="">Menu</span> </div>
+                <div id="navbar-close" class="hidden"> <span>Close</span> </div>
+            </button>            
+            <a class="navbar-brand logo-padding" href="/"><img src="/Resources/NewBBCSHeaderlogo.svg"></a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <div class="col-xs-12 col-sm-3 pd0 mT14">
+<form action="/news/" class="navbar-form" enctype="multipart/form-data" method="post" role="search">            <div class="form-group">
+                <div class="input-group">
+                    <input name="__RequestVerificationToken" type="hidden" value="6YdjtoTQazx5XuHzWM3NobyrxERJHliEY5KKpT7kdW_N1B7vAH9MePYXEXzDuvfnzT3T_1RT3GXdHtpIU55lqZqh1k81">
+<div ng-non-bindable="">
+    <input class="form-control&#32;input-lg" id="searchTerm" name="searchTerm" placeholder="Search" type="text" value="">
+</div>
+                    <span class="input-group-btn">
+                        <button type="submit" id="SearchBtn" class="btn btn-default btn-lg searchbtnheight"><span class="glyphicon glyphicon-search font18"></span></button>
+                    </span>
+                </div>
+            </div>
+<input name='ufprt' type='hidden' value='965F454C804390F4E52F3F50C1460E51CFA2F8E5DECE0BEAFDA986A811F3C242A9A27A9725377A949E36F261BC7B2FA0DAF8B5BC6833401647345A341C7A0A06F105F3211570A0981BA0A372556D297FE66E838EAD5ED72007257CC814552BAFD1BB3D24435EBB2C48B2DE04E9E561E4AFAB3D19'></form></div>
+            <ul class="nav navbar-nav navbar-right mT18 greyBg">
+
+
+
+    <li class="dropdown">
+        <a href="http://www.bbcstudios.com/about/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+            About<span class="glyphicon glyphicon-chevron-down pull-right downArrow"></span>
+        </a>
+                <ul class="dropdown-menu dropdownhover-bottom width207" role="menu">
+        <li>
+            <a href="http://www.bbcstudios.com/about/about-us/">
+                About Us
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/about/our-channels-and-brands/">
+                Our Channels and Brands
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/about/executive-committee/">
+                Executive Committee
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/about/environment/">
+                Environment
+            </a>
+        </li>
+        </ul>
+
+    </li>
+
+
+
+    <li class="dropdown">
+        <a href="http://www.bbcstudios.com/our-work/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+            Our Work<span class="glyphicon glyphicon-chevron-down pull-right downArrow"></span>
+        </a>
+                <ul class="dropdown-menu dropdownhover-bottom width207" role="menu">
+        <li>
+            <a href="http://www.bbcstudios.com/our-work/commercial-activity/">
+                Commercial Activity
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/our-work/awards/">
+                Awards
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/our-work/content-partnerships/">
+                Content Partnerships
+            </a>
+        </li>
+        <li>
+            <a href="https://productions.bbcstudios.com/">
+                Productions
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://sales.bbcstudios.com/">
+                International Content Platform
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.bbcstudios.com/ScriptWorks">
+                ScriptWorks
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+                    <ul class="dropdown-menu dropdownhover-bottom width207" role="menu">
+        <li>
+            <a href="https://www.bbcstudios.com/writersacademy">
+                Writers&#39; Academy
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+        </li>
+        </ul>
+
+        </li>
+        <li>
+            <a href="https://www.bbcstudios.com/talentworks/">
+                TalentWorks
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://bbcnews.bbcstudios.com/">
+                BBC News Commercial
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+        </li>
+        </ul>
+
+    </li>
+
+
+
+    <li class="dropdown">
+        <a href="http://www.bbcstudios.com/news/">
+            News
+        </a>
+    </li>
+
+
+
+    <li class="dropdown">
+        <a href="http://www.bbcstudios.com/contact/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+            Contact<span class="glyphicon glyphicon-chevron-down pull-right downArrow"></span>
+        </a>
+                <ul class="dropdown-menu dropdownhover-bottom width207" role="menu">
+        <li>
+            <a href="http://www.bbcstudios.com/contact/contact-us/">
+                Contact Us
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/contact/our-locations/">
+                Our Locations
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/contact/faqs/">
+                FAQs
+            </a>
+        </li>
+        <li>
+            <a href="https://careers.bbcstudios.com/">
+                Careers
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+        </li>
+        </ul>
+
+    </li>
+
+
+
+
+            </ul>
+        </div>
+    </div>
+</nav>
+
+    <section id="main-content-container" data-gap="sqhefdnlslvnpoacdtsq">
+        
+
+
+    <div class="umb-grid">
+                <div class="grid-section">
+    <div>
+        <div class='container'>
+        <div class="row clearfix">
+            <div class="col-md-12 column">
+                <div>
+                            
+    
+<section class="bgWhite">
+<div>
+<h1>News</h1>
+<hr class="contact"></div>
+</section>
+
+
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+    <div>
+        <div class='container'>
+        <div class="row clearfix">
+            <div class="col-md-12 column">
+                <div>
+                            
+    
+
+    
+        <section class="bgWhite">
+        <div>
+            <div class="row">
+                <div class="team" id="74522bb0-47ef-42b2-a97d-1e7753d19900" ng-controller="NewsController as vm" ng-init="vm.init('74522bb0-47ef-42b2-a97d-1e7753d19900', [{&quot;image&quot;:&quot;/media/5743/bbc-studios-productions-1920x1080.jpg&quot;,&quot;heading&quot;:&quot;BBC unveils three new exciting BBC Studios productions&quot;,&quot;description&quot;:&quot;&lt;p style=\&quot;font-weight: 400;\&quot;&gt;Agatha Christie: Mystery Queen, Mission Jurassic and The Secret Genius Of Everything will all be produced by BBC Studios.&lt;/p&gt;&quot;,&quot;url&quot;:&quot;https://www.bbc.co.uk/mediacentre/2022/season-of-new-factual-and-arts-content&quot;,&quot;publishedDate&quot;:&quot;2022-09-29T00:00:00&quot;},{&quot;image&quot;:&quot;/media/5742/bbc-studios-and-uktv-logo.jpg&quot;,&quot;heading&quot;:&quot;New partnership with&#160;OpenViewHD&#160;launches BBC Studios&#8217; first free-to-view channel in South Africa, BBC UKTV!&quot;,&quot;description&quot;:&quot;&lt;p style=\&quot;font-weight: 400;\&quot;&gt;The channel will launch on the BBC&#8217;s 100th birthday and will offer shows from BBC Studios&#39; award-winning catalogue.&#160;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;&quot;,&quot;url&quot;:&quot;https://www.bbc.co.uk/mediacentre/bbcstudios/2022/bbc-studios-partners-with-openview-to-launch-bbc-studios-exciting-first-free-to-view-multi-genre-channel-in-south-africa-bbc-uktv&quot;,&quot;publishedDate&quot;:&quot;2022-09-29T00:00:00&quot;},{&quot;image&quot;:&quot;/media/5741/scd-live-2023-16x9.jpg&quot;,&quot;heading&quot;:&quot;Strictly Come Dancing announces UK arena tour for 2023&quot;,&quot;description&quot;:&quot;&lt;p&gt;Multi-award-winning BBC Studios Entertainment production will be touring the UK with 31 exciting dance packed shows.&lt;/p&gt;&quot;,&quot;url&quot;:&quot;https://www.bbcstudios.com/news/strictly-come-dancing-announces-uk-arena-tour-for-2023/&quot;,&quot;publishedDate&quot;:&quot;2022-09-28T00:00:00&quot;},{&quot;image&quot;:&quot;/media/5734/2-bbc-earth-podcast-16-9.jpg&quot;,&quot;heading&quot;:&quot;BBC Studios Natural History Unit launches an all-new, must-listen BBC Earth Podcast&quot;,&quot;description&quot;:&quot;&lt;p class=\&quot;ipagesHero-description\&quot;&gt;Commissioned by BBC Studios Digital Engagement, the new podcast will be available from 27 September on YouTube and all other major podcast platforms.&lt;/p&gt;&quot;,&quot;url&quot;:&quot;https://www.bbc.co.uk/mediacentre/bbcstudios/2022/bbc-studios-natural-history-unit-launches-an-all-new-must-listen-bbc-earth-podcast&quot;,&quot;publishedDate&quot;:&quot;2022-09-27T00:00:00&quot;},{&quot;image&quot;:&quot;/media/5735/the-train-16-9.jpg&quot;,&quot;heading&quot;:&quot;BBC Studios and Baby Cow Productions announce two brand new comedy shorts set to debut online&quot;,&quot;description&quot;:&quot;&lt;p class=\&quot;ipagesHero-description\&quot;&gt;Two short-form series, commissioned by BBC Studios&#8217; Digital Consumer team, will showcase stinging satire from top-drawer TV talent and premiere on YouTube and Facebook.&lt;/p&gt;&quot;,&quot;url&quot;:&quot;https://www.bbc.co.uk/mediacentre/bbcstudios/2022/bbc-studios-and-baby-cow-productions-announce-two-brand-new-comedy-shorts-set-to-debut-online&quot;,&quot;publishedDate&quot;:&quot;2022-09-27T00:00:00&quot;},{&quot;image&quot;:&quot;/media/5732/writers-academy-2022-16-9.jpg&quot;,&quot;heading&quot;:&quot;BBC Studios announces Writers&#8217; Academy 2022 line-up&quot;,&quot;description&quot;:&quot;&lt;p&gt;Eight emerging TV writers have secured a place in the prestigious Writers&#8217; Academy course - a unique paid training programme to gain the skills needed to pen TV drama.&lt;/p&gt;&quot;,&quot;url&quot;:&quot;https://www.bbc.co.uk/mediacentre/bbcstudios/2022/bbc-studios-announces-writers-academy-2022-line-up&quot;,&quot;publishedDate&quot;:&quot;2022-09-26T00:00:00&quot;},{&quot;image&quot;:&quot;/media/5733/jjgg221-its-time-to-go-on-a-voyage.jpg&quot;,&quot;heading&quot;:&quot;JoJo &amp; Gran Gran celebrates Black History Month with special episode&quot;,&quot;description&quot;:&quot;&lt;p&gt;Ground-breaking preschool series - produced for CBeebies by BBC Studios Kids &amp;amp; Family Productions &#8211; to premiere special episode It&#8217;s Time for a Voyage this October&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;&quot;,&quot;url&quot;:&quot;https://www.bbc.co.uk/mediacentre/bbcstudios/2022/jojo-gran-gran-celebrates-black-history-month-with-special-episode&quot;,&quot;publishedDate&quot;:&quot;2022-09-26T00:00:00&quot;},{&quot;image&quot;:&quot;/media/5730/tellycast-digital-content-forum-16x9.jpg&quot;,&quot;heading&quot;:&quot;BBC Studios proud sponsor of TellyCast Digital Content Forum&quot;,&quot;description&quot;:&quot;&lt;p style=\&quot;font-weight: 400;\&quot;&gt;First event of its kind in the UK, hosted at BFI Southbank in November, will see amazing line-up of industry experts share key learnings from world of digital-first content.&lt;/p&gt;\r\n&lt;p style=\&quot;font-weight: 400;\&quot;&gt;&lt;em&gt;&#160;&lt;/em&gt;&lt;/p&gt;\r\n&lt;p style=\&quot;font-weight: 400;\&quot;&gt;&#160;&lt;/p&gt;&quot;,&quot;url&quot;:&quot;https://www.tellycast.com/events/tellycast-digital-content-forum/&quot;,&quot;publishedDate&quot;:&quot;2022-09-23T00:00:00&quot;},{&quot;image&quot;:&quot;/media/5731/bbc-reel-longshots-winners-2022-16x9.jpg&quot;,&quot;heading&quot;:&quot;Sky Hopinka&#8217;s Kicking the Clouds and Rob Roth&#8217;s Blondie: Vivir en la Habana named winners of BBC Reel LongShots&#160;&quot;,&quot;description&quot;:&quot;&lt;p&gt;BBC Reel, part of BBC Studios &lt;span&gt;announces winners of online festival dedicated to emerging&#160;documentary filmmakers.&#160;&lt;/span&gt;&lt;/p&gt;&quot;,&quot;url&quot;:&quot;https://www.bbc.co.uk/mediacentre/bbcstudios/2022/sky-hopinkas-kicking-the-clouds-and-rob-roths-blondie-vivir-en-la-habana-named-winners-of-bbc-reel-longshots-&quot;,&quot;publishedDate&quot;:&quot;2022-09-23T00:00:00&quot;},{&quot;image&quot;:&quot;/media/5728/lwjh-event-asset-v1.jpg&quot;,&quot;heading&quot;:&quot;BBC Studios and BBC Music presents Later&#8230; with Jools Holland at 30&quot;,&quot;description&quot;:&quot;&lt;p&gt;Special line-up will celebrate the show&#8217;s landmark birthday with evening of live performances, interviews and musical magic at London&#8217;s Eventim Apollo.&lt;/p&gt;&quot;,&quot;url&quot;:&quot;https://www.bbc.co.uk/mediacentre/2022/later-with-jools-holland-at-30&quot;,&quot;publishedDate&quot;:&quot;2022-09-22T00:00:00&quot;},{&quot;image&quot;:&quot;/media/5729/kate-ward-1920x1080.jpg&quot;,&quot;heading&quot;:&quot;BBC Studios Productions appoints Kate Ward as Managing Director for Factual&quot;,&quot;description&quot;:&quot;&lt;p&gt;Reporting to Ralph Lee, CEO BBC Studios Productions, Ward will oversee all BBC Studios&#8217; Factual production units and partnerships.&lt;/p&gt;&quot;,&quot;url&quot;:&quot;https://www.bbc.co.uk/mediacentre/bbcstudios/2022/bbcs-studios-productions-appoints-kate-ward-as-managing-director-for-factual&quot;,&quot;publishedDate&quot;:&quot;2022-09-22T00:00:00&quot;},{&quot;image&quot;:&quot;/media/5727/edu_frozenplanet2_1920x1080.jpg&quot;,&quot;heading&quot;:&quot;BBC Earth builds partnership with Minecraft for Frozen Planet II&quot;,&quot;description&quot;:&quot;&lt;p class=\&quot;ipagesHero-description\&quot;&gt;Introducing five free Minecraft Frozen Planet II worlds, featuring immersive landscapes, animals and game-based learning resources, inspired by stories in the new landmark series from BBC Studios&#8217; Natural History Unit.&lt;/p&gt;&quot;,&quot;url&quot;:&quot;https://www.bbc.co.uk/mediacentre/bbcstudios/2022/bbc-earth-builds-partnership-with-minecraft-for-frozen-planet-ii&quot;,&quot;publishedDate&quot;:&quot;2022-09-21T00:00:00&quot;}], 7232, 12)" ng-cloak="">
+                    <div class="container">
+
+                        <div class="row">
+                            <div ng-repeat="item in vm.items" class="col-lg-4 col-md-4 col-sm-4 col-xs-12 equalColx450">
+                                <div class="news--thumb" width="100%">
+                                    <p>
+                                        <a href="{{item.url}}" target="_blank">
+                                            <img ng-src="{{item.image}}" alt="news" class="img-responsive">
+                                        </a>
+                                    </p>
+                                </div>
+                                <div class="team-member">
+                                    <a href="{{item.url}}" target="_blank">
+                                        <h4 class="bodyText3 mT0 pT0 text-underline news-h4" ng-bind-html="item.heading | sanitize"> </h4>
+                                    </a>
+                                    <p>
+                                        <small class="dateTxt">{{item.publishedDate| date}}</small>
+                                    </p>
+                                    <p ng-bind-html="item.description | sanitize"></p>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div ng-show="vm.canLoadMore" class="news-show-more-button pB20 text-center pull-left">
+                                <a href="javascript:void(0)" ng-click="vm.showMore()" role="button" class="btn btn-warning newBtn"><span ng-bind="vm.loadMoreTitle"></span></a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    
+
+
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+                </div>
+    </div>
+
+
+
+    </section>
+
+    
+
+<footer class="container-fluid footer">
+    <div class="container pd_TB40 mob_PL0">
+        <div class="row footer-links">
+            <div class="col-xs-12 col-sm-5 col-md-2 footerLink pd_RL0">
+                <a class="navbar-brand " href="/"><img src="/Resources/NewBBCSFooterlogo.svg" alt="BBC Studios" class="img-responsive"> </a>
+            </div>
+            <div class="col-xs-12 col-md-10">
+                <ul class="nav navbar-nav navbar-right w100">
+                    <li><a href="/privacy">Privacy </a></li>
+                    <li><a href="/community-rules/">Community Rules</a></li>
+                    <li><a href="/cookies">Cookies</a></li>
+                    <li><a href="/copyright">Copyright</a></li>
+                    <li><a href="/manage-cookies">Manage Cookies</a></li>
+                    <li><a href="/terms-conditions">Terms &amp; Conditions</a></li>
+                    <li><a href="/annual-review">Annual Review</a></li>
+                    <li><a href="/reports">Reports</a></li>
+                    <li><a href="/modern-slavery-statement">Modern Slavery Statement</a></li>
+                    <li><a href="/working-with-us">Working With Us</a></li>
+                    <li><a href="http://www.bbc.co.uk/accessibility/">Accessibility Help <i class="fa fa-external-link fa-md"></i> </a></li>
+
+                </ul>
+            </div>
+        </div>
+
+        <hr>
+        <div class="row">
+            <div class="col-sm-12 copyright-link">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-7">
+                    <p class="font12 serif-regular">BBC Studios Distribution Limited, company number 01420028, 1 Television Centre, 101 Wood Lane, London, United Kingdom, W12 7FA.</p>
+                    <p class="font12 serif-regular">BBC Studios Productions Limited, company number 09463829, 1 Television Centre, 101 Wood Lane, London, W12 7FA. </p>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5 text-right pd_R0 sans-bold">
+                    <div class="col-sm-12 pdL0_mob tab_align"><a href="https://sales.bbcstudios.com/">BBC Studios International Content Platform <i class="fa fa-external-link fa-md"></i></a></div>
+                    <div class="col-sm-12 text-right pdL0_mob pd_T10 tab_align"><a href="https://careers.bbcstudios.com/">BBC Studios Careers <i class="fa fa-external-link fa-md"></i></a> </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    
+
+
+    
+
+    <script src="/dist/bundleJsNewStudioV1.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDbfhEHIEhj7bIJ_WAqQF1V-t7Q8Gjmewo"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+
+</body>
+</html>

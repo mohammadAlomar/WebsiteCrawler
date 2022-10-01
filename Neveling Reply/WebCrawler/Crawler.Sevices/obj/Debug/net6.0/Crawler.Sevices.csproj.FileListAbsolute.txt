@@ -1,0 +1,24 @@
+F:\Dev\Neveling Reply\WebCrawler\Crawler.Sevices\bin\Debug\net6.0\Crawler.Sevices.deps.json
+F:\Dev\Neveling Reply\WebCrawler\Crawler.Sevices\bin\Debug\net6.0\Crawler.Sevices.dll
+F:\Dev\Neveling Reply\WebCrawler\Crawler.Sevices\bin\Debug\net6.0\Crawler.Sevices.pdb
+F:\Dev\Neveling Reply\WebCrawler\Crawler.Sevices\obj\Debug\net6.0\Crawler.Sevices.csproj.AssemblyReference.cache
+F:\Dev\Neveling Reply\WebCrawler\Crawler.Sevices\obj\Debug\net6.0\Crawler.Sevices.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\Neveling Reply\WebCrawler\Crawler.Sevices\obj\Debug\net6.0\Crawler.Sevices.AssemblyInfoInputs.cache
+F:\Dev\Neveling Reply\WebCrawler\Crawler.Sevices\obj\Debug\net6.0\Crawler.Sevices.AssemblyInfo.cs
+F:\Dev\Neveling Reply\WebCrawler\Crawler.Sevices\obj\Debug\net6.0\Crawler.Sevices.csproj.CoreCompileInputs.cache
+F:\Dev\Neveling Reply\WebCrawler\Crawler.Sevices\obj\Debug\net6.0\Crawler.Sevices.dll
+F:\Dev\Neveling Reply\WebCrawler\Crawler.Sevices\obj\Debug\net6.0\refint\Crawler.Sevices.dll
+F:\Dev\Neveling Reply\WebCrawler\Crawler.Sevices\obj\Debug\net6.0\Crawler.Sevices.pdb
+F:\Dev\Neveling Reply\WebCrawler\Crawler.Sevices\obj\Debug\net6.0\ref\Crawler.Sevices.dll
+F:\Dev\Web crawler\Neveling Reply\WebCrawler\Crawler.Sevices\bin\Debug\net6.0\Crawler.Sevices.deps.json
+F:\Dev\Web crawler\Neveling Reply\WebCrawler\Crawler.Sevices\bin\Debug\net6.0\Crawler.Sevices.dll
+F:\Dev\Web crawler\Neveling Reply\WebCrawler\Crawler.Sevices\bin\Debug\net6.0\Crawler.Sevices.pdb
+F:\Dev\Web crawler\Neveling Reply\WebCrawler\Crawler.Sevices\obj\Debug\net6.0\Crawler.Sevices.csproj.AssemblyReference.cache
+F:\Dev\Web crawler\Neveling Reply\WebCrawler\Crawler.Sevices\obj\Debug\net6.0\Crawler.Sevices.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\Web crawler\Neveling Reply\WebCrawler\Crawler.Sevices\obj\Debug\net6.0\Crawler.Sevices.AssemblyInfoInputs.cache
+F:\Dev\Web crawler\Neveling Reply\WebCrawler\Crawler.Sevices\obj\Debug\net6.0\Crawler.Sevices.AssemblyInfo.cs
+F:\Dev\Web crawler\Neveling Reply\WebCrawler\Crawler.Sevices\obj\Debug\net6.0\Crawler.Sevices.csproj.CoreCompileInputs.cache
+F:\Dev\Web crawler\Neveling Reply\WebCrawler\Crawler.Sevices\obj\Debug\net6.0\Crawler.Sevices.dll
+F:\Dev\Web crawler\Neveling Reply\WebCrawler\Crawler.Sevices\obj\Debug\net6.0\refint\Crawler.Sevices.dll
+F:\Dev\Web crawler\Neveling Reply\WebCrawler\Crawler.Sevices\obj\Debug\net6.0\Crawler.Sevices.pdb
+F:\Dev\Web crawler\Neveling Reply\WebCrawler\Crawler.Sevices\obj\Debug\net6.0\ref\Crawler.Sevices.dll

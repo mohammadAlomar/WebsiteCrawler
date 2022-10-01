@@ -1,0 +1,508 @@
+
+
+<!DOCTYPE html>
+<html lang="en" title="Our Channels and Brands">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <meta name="description" content="Our Channels and Brands">
+    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="d9da3cf2-9cc6-4137-93c0-2a9ecc0a8835" data-blockingmode="auto" type="text/javascript"></script>
+    <title>Our Channels and Brands</title>
+
+    
+
+    <link href="/dist/bundleCssNewStudioV1.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the paage via file:// -->
+    <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script src="/js/newstudiov1/ga.js"></script>
+
+</head>
+<body class="ourProgrammes">
+
+    
+<nav class="navbar navbar-default headerBg" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button id="ChangeToggle" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <div id="navbar-hamburger"> <span class="sr-only">Toggle navigation</span> <span class="">Menu</span> </div>
+                <div id="navbar-close" class="hidden"> <span>Close</span> </div>
+            </button>            
+            <a class="navbar-brand logo-padding" href="/"><img src="/Resources/NewBBCSHeaderlogo.svg"></a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <div class="col-xs-12 col-sm-3 pd0 mT14">
+<form action="/about/our-channels-and-brands/" class="navbar-form" enctype="multipart/form-data" method="post" role="search">            <div class="form-group">
+                <div class="input-group">
+                    <input name="__RequestVerificationToken" type="hidden" value="tc6OtkGqz8BrJdMo5lLP8gI5z6EezuD-zuWgMCcLmzshvMBx4bY2o0l01M8MLUMClmtwNHCaTgyMQe3j8hy1LTkEjcY1">
+<div ng-non-bindable="">
+    <input class="form-control&#32;input-lg" id="searchTerm" name="searchTerm" placeholder="Search" type="text" value="">
+</div>
+                    <span class="input-group-btn">
+                        <button type="submit" id="SearchBtn" class="btn btn-default btn-lg searchbtnheight"><span class="glyphicon glyphicon-search font18"></span></button>
+                    </span>
+                </div>
+            </div>
+<input name='ufprt' type='hidden' value='30462D452D943B6CF4CDAA5D3265DA47263C1F34D224F8060495248F8F35791219BB41B92E2A1D1F8CF9415C31FE97E794A5FACEC8516BAF01A9173B5C5ED6DDC00C3C09A50CACC2ACF34FF0EC4AFEBC2E6569ADF6D0C0295E32F23AA64A97117036AC576A536CD0FAF623AA3B07D342385FD991'></form></div>
+            <ul class="nav navbar-nav navbar-right mT18 greyBg">
+
+
+
+    <li class="dropdown">
+        <a href="http://www.bbcstudios.com/about/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+            About<span class="glyphicon glyphicon-chevron-down pull-right downArrow"></span>
+        </a>
+                <ul class="dropdown-menu dropdownhover-bottom width207" role="menu">
+        <li>
+            <a href="http://www.bbcstudios.com/about/about-us/">
+                About Us
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/about/our-channels-and-brands/">
+                Our Channels and Brands
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/about/executive-committee/">
+                Executive Committee
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/about/environment/">
+                Environment
+            </a>
+        </li>
+        </ul>
+
+    </li>
+
+
+
+    <li class="dropdown">
+        <a href="http://www.bbcstudios.com/our-work/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+            Our Work<span class="glyphicon glyphicon-chevron-down pull-right downArrow"></span>
+        </a>
+                <ul class="dropdown-menu dropdownhover-bottom width207" role="menu">
+        <li>
+            <a href="http://www.bbcstudios.com/our-work/commercial-activity/">
+                Commercial Activity
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/our-work/awards/">
+                Awards
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/our-work/content-partnerships/">
+                Content Partnerships
+            </a>
+        </li>
+        <li>
+            <a href="https://productions.bbcstudios.com/">
+                Productions
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://sales.bbcstudios.com/">
+                International Content Platform
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.bbcstudios.com/ScriptWorks">
+                ScriptWorks
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+                    <ul class="dropdown-menu dropdownhover-bottom width207" role="menu">
+        <li>
+            <a href="https://www.bbcstudios.com/writersacademy">
+                Writers&#39; Academy
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+        </li>
+        </ul>
+
+        </li>
+        <li>
+            <a href="https://www.bbcstudios.com/talentworks/">
+                TalentWorks
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://bbcnews.bbcstudios.com/">
+                BBC News Commercial
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+        </li>
+        </ul>
+
+    </li>
+
+
+
+    <li class="dropdown">
+        <a href="http://www.bbcstudios.com/news/">
+            News
+        </a>
+    </li>
+
+
+
+    <li class="dropdown">
+        <a href="http://www.bbcstudios.com/contact/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+            Contact<span class="glyphicon glyphicon-chevron-down pull-right downArrow"></span>
+        </a>
+                <ul class="dropdown-menu dropdownhover-bottom width207" role="menu">
+        <li>
+            <a href="http://www.bbcstudios.com/contact/contact-us/">
+                Contact Us
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/contact/our-locations/">
+                Our Locations
+            </a>
+        </li>
+        <li>
+            <a href="http://www.bbcstudios.com/contact/faqs/">
+                FAQs
+            </a>
+        </li>
+        <li>
+            <a href="https://careers.bbcstudios.com/">
+                Careers
+                    <i class="fa fa-external-link fa-md"></i>
+            </a>
+        </li>
+        </ul>
+
+    </li>
+
+
+
+
+            </ul>
+        </div>
+    </div>
+</nav>
+
+    <section id="main-content-container" data-gap="sqhefdnlslvnpoacdtsq">
+        
+
+
+    <div class="umb-grid">
+                <div class="grid-section">
+    <div data-background-color="white" data-padding="heroPadding" data-container-width="none" style="background-image:url(/media/4950/the-green-planet-website-header.jpg);">
+        <div class='container'>
+        <div class="row clearfix">
+            <div class="col-md-12 column">
+                <div>
+                            
+    
+<h1 class="col-xs-12 col-sm-8 col-md-6 pd_L0">Our Channels and Brands</h1>
+
+
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+    <div data-background-color="studiosDeepPurple">
+        <div class='container'>
+        <div class="row clearfix">
+            <div class="col-md-12 column">
+                <div>
+                            
+    
+<section>
+<div class="pd_TB30">
+<div class="row">
+<div class="col-sm-12 col-md-8 col-lg-8">
+<h3 class="bodyText1">Channels and On-Demand Services</h3>
+<h4 class="subHead">We love to connect with you. And thanks to our BBC-branded channels and on-demand services, which are available in over 120 territories, we can.</h4>
+<p>We’ve channels for every taste and mindset, ranging from BBC Earth which specialises in high-end natural history and factual shows all the way through to CBeebies for younger audiences. Along the way, you can dip into BBC First, BBC Brit, BBC Entertainment, BBC Knowledge, BBC Lifestyle, BBC HD, BBC Living, BBC Kids and BBC Canada. </p>
+<p><span>In the UK we own and run UKTV, a popular and successful network of commercial channels. Its leading brands - Dave, Gold, W, Drama, Alibi, Eden and Yesterday – span comedy, entertainment, natural history, factual and drama, and combine UKTV originals with much loved BBC programmes and other acquisitions.</span></p>
+<p>Some of our channels are run with other broadcasting partners. These include AMC Networks, which together with BBC Studios owns BBC AMERICA in the US; Sony with whom we operate BBC Earth in India; and Corus Entertainment, our partner for BBC Canada.</p>
+<p>But we don’t just offer TV channels. In North America, together with partner ITV plc, we’ve created BritBox for fans of British shows in the US and Canada. And BBC Player, BBC Studios’ multi-genre subscription video-on-demand (SVOD) service is available in Singapore and Malaysia.</p>
+</div>
+</div>
+</div>
+</section>
+
+
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+    <div data-background-color="studiosDeepPurple">
+        <div class='container'>
+        <div class="row clearfix">
+            <div class="col-md-2 column">
+                <div>
+                            
+    
+<div><a href="https://www.bbc.com/earth/uk" title="BBC Earth" target="_blank" rel="noopener"><span class="channels-margin-bottom"><img src="/media/3730/earth.jpg" alt="BBC Earth" class="img-responsive"></span></a></div>
+
+
+                </div>
+            </div>            <div class="col-md-2 column">
+                <div>
+                            
+    
+<div><a href="http://www.bbcfirst.tv/" title="BBC First" target="_blank" rel="noopener"><span class="channels-margin-bottom"><img src="/media/3734/first.jpg" alt="BBC First" class="img-responsive"></span></a></div>
+
+
+                </div>
+            </div>            <div class="col-md-2 column">
+                <div>
+                            
+    
+<div><a href="http://www.bbcbrit.com/" title="BBC Brit" target="_blank" rel="noopener"><span class="channels-margin-bottom"><img src="/media/3753/bbc-brit.jpg" alt="BBC Brit" class="img-responsive"></span></a></div>
+
+
+                </div>
+            </div>            <div class="col-md-2 column">
+                <div>
+                            
+    
+<div><a href="http://www.cbeebies.com/global" title="CBeebies" target="_blank" rel="noopener"><span class="channels-margin-bottom"><img src="/media/3736/cbeebies.jpg" alt="CBeebies" class="img-responsive"></span></a></div>
+
+
+                </div>
+            </div>            <div class="col-md-2 column">
+                <div>
+                            
+    
+<div><a href="http://www.bbclifestyle.com/" title="BBC Lifestyle" target="_blank" rel="noopener"><img src="/media/3738/lifestyle.jpg" alt="BBC Lifestyle" class="img-responsive"></a></div>
+
+
+                </div>
+            </div>            <div class="col-md-2 column">
+                <div>
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+    <div data-background-color="studiosDeepPurple" data-padding-bottom="paddingBottom30" data-padding-top="paddingTop30">
+        <div class='container'>
+        <div class="row clearfix">
+            <div class="col-md-2 column">
+                <div>
+                            
+    
+<div><a href="https://abc.go.com/shows/dancing-with-the-stars" title="BBC Knowledge" target="_blank" rel="noopener"><span class="channels-margin-bottom"><img src="/media/3737/knowledge.jpg" alt="BBC Knowledge" class="img-responsive"></span></a></div>
+
+
+                </div>
+            </div>            <div class="col-md-2 column">
+                <div>
+                            
+    
+<div><a href="https://www.bbcchannels.com/bbc-europe/" title="BBC Entertainment" target="_blank" rel="noopener"><span class="channels-margin-bottom"><img src="/media/3732/entertainment.jpg" alt="BBC Entertainment" class="img-responsive"></span></a></div>
+
+
+                </div>
+            </div>            <div class="col-md-2 column">
+                <div>
+                            
+    
+<div><a href="http://bbckids.ca/" title="BBC Kids" target="_blank" rel="noopener"><span class="channels-margin-bottom"><img src="/media/3729/kids.jpg" alt="BBC Kids" class="img-responsive"></span></a></div>
+
+
+                </div>
+            </div>            <div class="col-md-2 column">
+                <div>
+                            
+    
+<div><a href="http://www.bbcamerica.com/" title="BBC America" target="_blank" rel="noopener"><span class="channels-margin-bottom"><img src="/media/3733/america.jpg" alt="BBC America" class="img-responsive"></span></a></div>
+
+
+                </div>
+            </div>            <div class="col-md-2 column">
+                <div>
+                            
+    
+<div><a href="https://www.bbccanada.com/" title="BBC Canada" target="_blank" rel="noopener"><span class="channels-margin-bottom"><img src="/media/3735/canada.jpg" alt="BBC Canada" class="img-responsive"></span></a></div>
+
+
+                </div>
+            </div>            <div class="col-md-2 column">
+                <div>
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+    <div data-background-color="studiosDeepPurple">
+        <div class='container'>
+        <div class="row clearfix">
+            <div class="col-md-12 column">
+                <div>
+                            
+    
+<p></p>
+<p></p>
+
+
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+    <div data-background-color="studiosDarkPurple">
+        <div class='container'>
+        <div class="row clearfix">
+            <div class="col-md-12 column">
+                <div>
+                            
+    
+<section>
+<div class="pd_TB30">
+<div class="row">
+<div class="col-sm-12 col-md-8 col-lg-8">
+<h3 class="bodyText1">Brands</h3>
+<h4 class="subHead">Whether BBC Earth,<em> Doctor Who, Top Gear</em> or <em>Sherlock</em>, creating brands that you love as much as we do is in our DNA. We offer fans many ways to get more out of their favourite show by creating games, books, clothing or live events that deliver experiences beyond the original content.</h4>
+<p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;">Our brands reach fans in over 200 countries.<span style="color: red;"> </span>The world-renowned entertainment format <span style="font-style: italic;">Dancing with the Stars </span>(the international version of the UK’s <span style="font-style: italic;">Strictly Come Dancing</span>) reaches viewers in over 50 countries - as far afield as Argentina and New Zealand. We also oversee <span style="font-style: italic;">Top Gear; </span>we sell the UK show to over 200 territories and have helped produce local versions of the motoring entertainment hit in the US, China, Australia, Russia, France, and South Korea. We continually regenerate the <span style="font-style: italic;">Doctor Who</span> brand, one of the longest running action adventure television series in the world spanning 55 years and winning over 100 awards, to keep track with the show itself, attracting new audiences to its ever-growing global fanbase. Our umbrella factual brand, BBC Earth, has spawned internet-breaking shows such as <span style="font-style: italic;">Blue Planet II</span> and <span style="font-style: italic;">Planet Earth</span> <span style="font-style: italic;">II</span>, reaching audiences through TV, branded channels, live events, digital and social media, augmented and virtual reality, cinema, and consumer products.</p>
+</div>
+</div>
+</div>
+</section>
+
+
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+    <div data-background-color="studiosDarkPurple" data-padding-bottom="none">
+        <div class='container'>
+        <div class="row clearfix">
+            <div class="col-md-4 column">
+                <div>
+                            
+    
+<div class="darkBg"><a href="https://www.topgear.com/" title="Top Gear" target="_blank" rel="noopener"><img src="/media/4028/top-gear-s27-iconic-16x9.jpg" alt="Top Gear" class="img-responsive"></a>
+<div class="team-member">
+<h4 class="bodyText3 mT0 ng-binding"><a href="https://www.topgear.com/" title="Top Gear" target="_blank" rel="noopener">Top Gear</a></h4>
+</div>
+<div></div>
+</div>
+
+
+                </div>
+            </div>            <div class="col-md-4 column">
+                <div>
+                            
+    
+<div class="darkBg"><a href="https://www.bbcearth.com/" title="BBC Earth" target="_blank" rel="noopener"><img src="/media/3722/blue_planet_tile.jpg" alt="BBC Earth" class="img-responsive"></a>
+<div class="team-member">
+<h4 class="bodyText3 mT0 ng-binding"><a href="https://www.bbcearth.com/" title="BBC Earth" target="_blank" rel="noopener">BBC Earth</a></h4>
+</div>
+</div>
+
+
+                </div>
+            </div>            <div class="col-md-4 column">
+                <div>
+                            
+    
+<div class="darkBg"><a href="https://www.doctorwho.tv/" title="Doctor Who" target="_blank" rel="noopener"><img src="/media/3794/doctor-who-books.jpg" alt="Doctor Who" class="img-responsive"></a>
+<div class="team-member">
+<h4 class="bodyText3 mT0 ng-binding"><a href="https://www.doctorwho.tv/" title="Doctor Who" target="_blank" rel="noopener">Doctor Who</a></h4>
+</div>
+</div>
+
+
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+    <div data-background-color="studiosDarkPurple" data-padding-bottom="paddingBottom10">
+        <div class='container'>
+        <div class="row clearfix">
+            <div class="col-md-4 column">
+                <div>
+                            
+    
+<div class="darkBg"><a href="https://abc.go.com/shows/dancing-with-the-stars" title="Dancing with the Stars USA" target="_blank" rel="noopener"><img src="/media/3793/lets-dance-germany.jpg" alt="" class="img-responsive"></a>
+<div class="team-member">
+<h4 class="bodyText3 mT0 ng-binding"><a href="https://abc.go.com/shows/dancing-with-the-stars" title="Dancing with the Stars USA" target="_blank" rel="noopener">Dancing With the Stars</a></h4>
+</div>
+</div>
+
+
+                </div>
+            </div>            <div class="col-md-4 column">
+                <div>
+                </div>
+            </div>            <div class="col-md-4 column">
+                <div>
+                </div>
+            </div>        </div>
+        </div>
+    </div>
+                </div>
+    </div>
+
+
+
+    </section>
+
+    
+
+<footer class="container-fluid footer">
+    <div class="container pd_TB40 mob_PL0">
+        <div class="row footer-links">
+            <div class="col-xs-12 col-sm-5 col-md-2 footerLink pd_RL0">
+                <a class="navbar-brand " href="/"><img src="/Resources/NewBBCSFooterlogo.svg" alt="BBC Studios" class="img-responsive"> </a>
+            </div>
+            <div class="col-xs-12 col-md-10">
+                <ul class="nav navbar-nav navbar-right w100">
+                    <li><a href="/privacy">Privacy </a></li>
+                    <li><a href="/community-rules/">Community Rules</a></li>
+                    <li><a href="/cookies">Cookies</a></li>
+                    <li><a href="/copyright">Copyright</a></li>
+                    <li><a href="/manage-cookies">Manage Cookies</a></li>
+                    <li><a href="/terms-conditions">Terms &amp; Conditions</a></li>
+                    <li><a href="/annual-review">Annual Review</a></li>
+                    <li><a href="/reports">Reports</a></li>
+                    <li><a href="/modern-slavery-statement">Modern Slavery Statement</a></li>
+                    <li><a href="/working-with-us">Working With Us</a></li>
+                    <li><a href="http://www.bbc.co.uk/accessibility/">Accessibility Help <i class="fa fa-external-link fa-md"></i> </a></li>
+
+                </ul>
+            </div>
+        </div>
+
+        <hr>
+        <div class="row">
+            <div class="col-sm-12 copyright-link">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-7">
+                    <p class="font12 serif-regular">BBC Studios Distribution Limited, company number 01420028, 1 Television Centre, 101 Wood Lane, London, United Kingdom, W12 7FA.</p>
+                    <p class="font12 serif-regular">BBC Studios Productions Limited, company number 09463829, 1 Television Centre, 101 Wood Lane, London, W12 7FA. </p>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5 text-right pd_R0 sans-bold">
+                    <div class="col-sm-12 pdL0_mob tab_align"><a href="https://sales.bbcstudios.com/">BBC Studios International Content Platform <i class="fa fa-external-link fa-md"></i></a></div>
+                    <div class="col-sm-12 text-right pdL0_mob pd_T10 tab_align"><a href="https://careers.bbcstudios.com/">BBC Studios Careers <i class="fa fa-external-link fa-md"></i></a> </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    
+
+
+    
+
+    <script src="/dist/bundleJsNewStudioV1.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDbfhEHIEhj7bIJ_WAqQF1V-t7Q8Gjmewo"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+
+</body>
+</html>
