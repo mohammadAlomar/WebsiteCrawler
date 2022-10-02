@@ -9,7 +9,7 @@ namespace Crawler.Sevices
 {
     public  class FileWriter : IFileWriter
     {
-        public  void WriteToFile(List<string> items, string path)
+        public Task WriteToFile(List<string> items, string path)
         {
             using (var file = File.CreateText(path))
             {
@@ -18,6 +18,7 @@ namespace Crawler.Sevices
                     file.WriteLine(line);
                 }
             }
+            return Task.CompletedTask;
         }
 
         public  Task WriteToFile(string url, string path)
@@ -31,5 +32,6 @@ namespace Crawler.Sevices
             return Task.CompletedTask;
 
         }
+      
     }
 }

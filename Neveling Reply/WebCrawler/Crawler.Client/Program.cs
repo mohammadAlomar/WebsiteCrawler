@@ -15,6 +15,6 @@ foreach(var url in Result)
 }
 
 
-file.WriteToFile(Result, @"F:\Dev\Web crawler\Neveling Reply\WebCrawler\Crawler.Client\NewFolder\TextFile1.txt");
+await file.WriteToFile(Result, @"F:\Dev\Web crawler\Neveling Reply\WebCrawler\Crawler.Client\NewFolder\TextFile1.txt");
 
 Console.ReadLine();

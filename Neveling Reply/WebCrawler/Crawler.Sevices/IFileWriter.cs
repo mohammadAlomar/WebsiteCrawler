@@ -9,7 +9,6 @@ namespace Crawler.Sevices
 {
     public  interface IFileWriter
     {
-        void WriteToFile(List<string> items, string path);
         Task WriteToFile(string  url, string path);
 
     }
